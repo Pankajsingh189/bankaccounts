@@ -1,7 +1,8 @@
 account name                account number
 pankaj                      1001
-ravi                        1002
 sagar                       1003
 sonu                        1004
 rajkumar                    1005
+sunny                       1006
+pankajsingh                 1007
 
